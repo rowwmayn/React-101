@@ -34,10 +34,3 @@ This course documents a practical path to learn modern React for building produc
   - Propose RFCs for ergonomic improvements (developer DX) and accessibility defaults.
   - Work on bundle-size savings (compile-time transforms, tree-shaking), SSR/hydration, or tooling (devtools, build integrations).
 
-## 4. Course tracking template
-- Episode 01 — Intro & History — DONE
-- Episode 02 — JSX & Components — TODO
-- Episode 03 — Hooks deep dive — TODO
-- (Add new lessons as you produce them)
-
-For this repository, see [README.md](README.md) for the canonical syllabus and progress log.
